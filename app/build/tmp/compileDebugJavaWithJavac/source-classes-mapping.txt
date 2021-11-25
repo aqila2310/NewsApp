@@ -1,0 +1,18 @@
+com/idn/newsapp/databinding/FragmentTopBinding.java
+ com.idn.newsapp.databinding.FragmentTopBinding
+com/idn/newsapp/databinding/NewsHeadlineBinding.java
+ com.idn.newsapp.databinding.NewsHeadlineBinding
+com/idn/newsapp/databinding/ActivitySplashScreenBinding.java
+ com.idn.newsapp.databinding.ActivitySplashScreenBinding
+com/idn/newsapp/databinding/ActivityMainBinding.java
+ com.idn.newsapp.databinding.ActivityMainBinding
+com/idn/newsapp/databinding/FragmentAllNewsBinding.java
+ com.idn.newsapp.databinding.FragmentAllNewsBinding
+com/idn/newsapp/BuildConfig.java
+ com.idn.newsapp.BuildConfig
+com/idn/newsapp/databinding/FragmentPopularBinding.java
+ com.idn.newsapp.databinding.FragmentPopularBinding
+com/idn/newsapp/databinding/RowItemNewsBinding.java
+ com.idn.newsapp.databinding.RowItemNewsBinding
+com/idn/newsapp/databinding/ActivityDetailBinding.java
+ com.idn.newsapp.databinding.ActivityDetailBinding
